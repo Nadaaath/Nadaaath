@@ -52,18 +52,6 @@ Healthcare management platform built with a microservices architecture, API Gate
 
 ---
 
-### Terraform AWS Serverless Platform
-
-Infrastructure-as-Code project using Terraform modules and LocalStack to model AWS serverless infrastructure.
-
-**Key work:**
-- Reusable Terraform modules
-- S3, DynamoDB, IAM, Lambda, API Gateway
-- LocalStack-based local AWS simulation
-- Terraform validation and CI-oriented workflow
-
----
-
 ### SkillMatch AI
 
 AI-powered recruitment matching platform with FastAPI, React, PDF CV parsing, semantic similarity scoring, and explainable candidate-job matching results.

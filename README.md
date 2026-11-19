@@ -5,9 +5,6 @@
   Cloud Infrastructure · Infrastructure as Code · CI/CD · DevSecOps · Observability
 </p>
 
-<p align="center">
-  I build applications and the infrastructure that runs them—from APIs and databases to automated deployments, security checks, and monitoring.
-</p>
 
 <p align="center">
   🎯 Seeking a final-year (PFE) internship in <strong>Cloud / DevOps Engineering</strong>
@@ -17,9 +14,8 @@
 
 ## About Me
 
-I'm an engineering student at **INPT Rabat** with an interest in **cloud infrastructure, DevOps, backend engineering, and platform reliability**. I like projects where software development and operations meet: designing a useful application, deploying it in a realistic environment, automating the delivery process, and making it observable.
+I'm an engineering student at **INPT Rabat** with an interest in **cloud infrastructure, DevOps, backend engineering, and platform reliability**. I like projects where software development and operations meet: designing a useful application, deploying it in a realistic environment, and automating the delivery process.
 
-My projects span **Huawei Cloud Stack and AWS**, as well as containerized and Kubernetes-based environments. I focus on understanding the decisions behind each architecture rather than collecting tools for their own sake.
 
 ## Featured Projects
 

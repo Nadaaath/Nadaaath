@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Nada Tahiri Alaoui 👋</h1>
 <h3 align="center">Cloud & DevOps Engineering Student · INPT Rabat</h3>
 
-<p align="center">
-  Cloud Infrastructure · Infrastructure as Code · CI/CD · DevSecOps · Observability
-</p>
 
 
 <p align="center">
@@ -31,7 +28,6 @@ A transportation-planning application used as the workload for an end-to-end clo
 
 **Technologies:** `Huawei Cloud Stack` `Terraform` `Ansible` `Jenkins` `Docker` `GHCR` `Trivy` `Prometheus` `Grafana`
 
-> The Jenkins Trivy stage reports HIGH/CRITICAL findings; its current configuration does not fail builds on those findings.
 
 ---
 
@@ -76,7 +72,6 @@ A healthcare management system organized around independently developed backend 
 
 **Technologies:** `Node.js` `Express` `React` `MySQL` `MongoDB` `Docker Compose` `Kubernetes` `GitHub Actions`
 
-> Prometheus/Grafana work is described in the project history, but the current default branch does not contain the monitoring configuration needed to reproduce it.
 
 ---
 
